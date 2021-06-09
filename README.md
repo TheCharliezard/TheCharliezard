@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheCharliezard
+- I like playing all types of videogames and I'm trying to understand their code
+- I'm currently working on scripts for Minecraft mods and plugins for servers
+- Also, I own my own Minecraft server which is themed around Subnautica style gameplay. Feel free to contact me if you want to join or have a look ;)
+- The easiest way to reach me is by writing me an email to cmirandahuerta@gmail.com. I reply fast
